@@ -17,42 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi~ I am Zhenhong Zhou, a third-year master student at Beijing University of Posts and Telecommunications, advised by [**Sen Su**](https://scholar.google.com/citations?user=JaDhAfsAAAAJ).
+My research interest includes AI Safety and LLM Safety, jailbreak, interpretability/explainability, and privacy specifically. Now I am a research intern in [**Tongyi**](https://tongyi.aliyun.com/qianwen/), working on the topics related to LLM interpretability.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I will get my master's degree in June 2025. **I am looking for Ph.D. program**. 
+
+**If you are interested in my research, please contact me**.😊😊😊
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 One Paper was accepted by AAAI 2024 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/HAJW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhenhong Zhou**, Haiyang Yu, Xinghua Zhang, Rongwu Xu, Fei Huang, Yongbin Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+💻 [**Code**]: [Link](https://github.com/ydyjya/LLM-IHS-Explanation) 
+
+📄 [**Paper**]: [Link](https://arxiv.org/abs/2406.05644)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI 2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Quantifying and Analyzing Entity-Level Memorization in Large Language Models**
+
+**Zhenhong Zhou**, Jiuyang Xiang, Chaomeng Chen, Sen Su
+
+📄 [**Paper**]: [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29948)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/SPOT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Speak Out of Turn: Safety Vulnerability of Large Language Models in Multi-turn Dialogue**
+
+**Zhenhong Zhou**, Jiuyang Xiang, Haopeng Chen, Quan Liu, Zherui Li, Sen Su
+
+📄 [**Paper**]: [Link](https://arxiv.org/abs/2402.17262)
+</div>
+</div>
+
+
+# 🎈 Project
+- [Awesome-LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="https://img.shields.io/github/stars/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub stars"></a>
+- [LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="https://img.shields.io/github/stars/EmbraceAGI/LifeReloaded?style=flat-square&logo=github" alt="GitHub stars"></a>
+- [Bolaris](https://github.com/Code4Epoch/Bolaris)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="https://img.shields.io/github/stars/Code4Epoch/Bolaris?style=flat-square&logo=github" alt="GitHub stars"></a>
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - now*, Master of Computer Science and Technology, Beijing University of Posts and Telecommunications. 
+- *2018.09 - 2022.06*, Bachelor of Data Science and Big Data Technology, Beijing University of Posts and Telecommunications. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.02 - now*, [Tongyi, Alibaba](https://tongyi.aliyun.com/qianwen/), Beijing, China.
+- *2023.10 - 2024.02*, [Baichuan Inc.](https://www.baichuan-ai.com/home), Beijing, China.
+
+# 🖊️ Blog
+- [LLM Safety Paper Notes Collection](https://www.zhihu.com/column/c_1717936698376212480)
+- [transformer/nanoGPT Notes Collection](https://www.zhihu.com/column/c_1717936949351051264)
+
+
+# 🎖 Honors and Awards
+- *2023.10* First-class postgraduate academic scholarship, Beijing University of Posts and Telecommunications.
+- *2022.10* Second-class postgraduate academic scholarship, Beijing University of Posts and Telecommunications.

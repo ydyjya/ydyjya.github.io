@@ -51,20 +51,22 @@
     
 
     .paper-box-image{
-        justify-content: center;
         display: flex;
-        width: 100%;
+        justify-content: center;
+        width: 100%; /* 控制容器宽度 */
         order: 2;
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            width: 300px;  /* 固定图片宽度 */
+            height: 144px; /* 固定图片高度 */
+            object-fit: contain; /* 保证内容被保留，可能的话，添加空白 */
+            box-shadow: 3px 3px 6px #ffffff;
         }
     }
     
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        font-size: 1.1em;
     }
     
     @include breakpoint($medium) {

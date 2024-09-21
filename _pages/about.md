@@ -26,11 +26,27 @@ I will get my master's degree in June 2025. **I am looking for Ph.D. program**.
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 One Paper was accepted by AAAI 2024 
+- *2024.09*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2024
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 
 
-# 📝 Publications 
+# 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2024 Main</div><img src='images/AED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/HAJW.png' alt="sym" width="100%"></div></div>
+**Alignment-Enhanced Decoding: Defending via Token-Level Adaptive Refining of Probability Distributions**
+
+Quan Liu, **Zhenhong Zhou(Co-First)**, Longzhu He, Yi Liu, Wei Zhang, Sen Su
+
+
+💻 [**Code**]: [Link](https://github.com/GIGABaozi/AED) 
+
+📄 [**Paper**]: [Link](https://arxiv.org/pdf/2408.07663)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2024 findings</div><img src='images/HAJW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**

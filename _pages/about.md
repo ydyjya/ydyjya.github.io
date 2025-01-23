@@ -26,10 +26,26 @@ I will get my master's degree in June 2025. **I am looking for Ph.D. program**.
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025
 - *2024.09*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2024
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/SHA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**On the Role of Attention Heads in Large Language Model Safety**
+
+**Zhenhong Zhou**, Haiyang Yu, Xinghua Zhang, Rongwu Xu, Fei Huang, Kun Wang, Yang Liu, Junfeng Fang, Yongbin Li
+
+
+💻 [**Code**]: [Link](https://github.com/ydyjya/SafetyHeadAttribution) 
+
+📄 [**Paper**]: [Link](https://arxiv.org/abs/2410.13708)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2024 Main</div><img src='images/AED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~ I am Zhenhong Zhou, a third-year master student at Beijing University of Posts and Telecommunications, advised by [**Sen Su**](https://scholar.google.com/citations?user=JaDhAfsAAAAJ).
+Hi~ I am Zhenhong Zhou, a third-year master student at Beijing University of Posts and Telecommunications, advised by Prof. [**Sen Su**](https://scholar.google.com/citations?user=JaDhAfsAAAAJ).
 My research interest includes AI Safety and LLM Safety, jailbreak, interpretability/explainability, and privacy specifically. Now I am a research intern in [**Tongyi**](https://tongyi.aliyun.com/qianwen/), working on the topics related to LLM interpretability.
 
-I will get my master's degree in June 2025. **I am looking for Ph.D. program**. 
+I will get my master's degree in June 2025. Then, I will start my PhD at Nanyang Technological University under the supervision of Prof. [Yang Liu](https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=en&oi=ao).
 
 **If you are interested in my research, please contact me**.😊😊😊
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025 (Oral)
 - *2024.09*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2024
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/SHA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (Oral Top 1.8%)</div><img src='images/SHA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **On the Role of Attention Heads in Large Language Model Safety**
@@ -46,7 +46,7 @@ I will get my master's degree in June 2025. **I am looking for Ph.D. program**.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2024 Main</div><img src='images/AED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/AED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Alignment-Enhanced Decoding: Defending via Token-Level Adaptive Refining of Probability Distributions**
@@ -62,7 +62,7 @@ Quan Liu, **Zhenhong Zhou(Co-First)**, Longzhu He, Yi Liu, Wei Zhang, Sen Su
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2024 findings</div><img src='images/HAJW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Findings</div><img src='images/HAJW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**
@@ -111,7 +111,8 @@ Quan Liu, **Zhenhong Zhou(Co-First)**, Longzhu He, Yi Liu, Wei Zhang, Sen Su
 - *2018.09 - 2022.06*, Bachelor of Data Science and Big Data Technology, Beijing University of Posts and Telecommunications. 
 
 # 💻 Internships
-- *2024.02 - now*, [Tongyi, Alibaba](https://tongyi.aliyun.com/qianwen/), Beijing, China.
+- *2024.12 - now*, [A*Star], Singapore.
+- *2024.02 - 2024.12*, [Tongyi, Alibaba](https://tongyi.aliyun.com/qianwen/), Beijing, China.
 - *2023.10 - 2024.02*, [Baichuan Inc.](https://www.baichuan-ai.com/home), Beijing, China.
 
 # 🖊️ Blog

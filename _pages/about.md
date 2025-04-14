@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi~ I am Zhenhong Zhou, a third-year master student at Beijing University of Posts and Telecommunications, advised by Prof. [**Sen Su**](https://scholar.google.com/citations?user=JaDhAfsAAAAJ).
-My research interest includes AI Safety and LLM Safety, jailbreak, interpretability/explainability, and privacy specifically.
+My research interest includes AI Safety and LLM Safety, Jailbreak, Interpretability, and Privacy specifically.
 
 I will get my master's degree in June 2025. Then, I will start my PhD at Nanyang Technological University under the supervision of Prof. [Yang Liu](https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=en&oi=ao).
 
@@ -111,7 +111,7 @@ Quan Liu, **Zhenhong Zhou(Co-First)**, Longzhu He, Yi Liu, Wei Zhang, Sen Su
 - *2018.09 - 2022.06*, Bachelor of Data Science and Big Data Technology, Beijing University of Posts and Telecommunications. 
 
 # 💻 Internships
-- *2024.12 - now*, [A*Star], Singapore.
+- *2024.12 - now*, A*Star, Singapore.
 - *2024.02 - 2024.12*, [Tongyi, Alibaba](https://tongyi.aliyun.com/qianwen/), Beijing, China.
 - *2023.10 - 2024.02*, [Baichuan Inc.](https://www.baichuan-ai.com/home), Beijing, China.
 

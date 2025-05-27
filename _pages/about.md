@@ -26,8 +26,10 @@ I will get my master's degree in June 2025. Then, I will start my PhD at Nanyang
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2025
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2025
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025 (Oral)
-- *2024.09*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2024
+- *2024.09*: &nbsp;🎉🎉 Three papers are accepted by EMNLP 2024
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 
 
 # 📝 Selected Publications 

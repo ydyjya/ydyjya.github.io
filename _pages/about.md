@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~ I am Zhenhong Zhou, a third-year master student at Beijing University of Posts and Telecommunications, advised by Prof. [**Sen Su**](https://scholar.google.com/citations?user=JaDhAfsAAAAJ).
-My research interest includes AI Safety and LLM Safety, Jailbreak, Interpretability, and Privacy specifically.
+Hi~ I am Zhenhong Zhou, a first-year PhD student at Nanyang Technological University, Prof. [Yang Liu](https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=en&oi=ao). My research interest includes AI Safety and LLM Safety, Jailbreak, Interpretability, and Privacy specifically.
 
-I will get my master's degree in June 2025. Then, I will start my PhD at Nanyang Technological University under the supervision of Prof. [Yang Liu](https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=en&oi=ao).
+I obtained my bachelor's degree in 2018 and my master's degree in 2022 from Beijing University of Posts and Telecommunications, advised by Prof. [**Sen Su**](https://scholar.google.com/citations?user=JaDhAfsAAAAJ).
 
 **If you are interested in my research, please contact me**.😊😊😊
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025
+- *2025.09*: &nbsp;🎉🎉 Two paper are accepted by EMNLP 2025
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2025
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2025
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025 (Oral)
@@ -109,11 +110,12 @@ Quan Liu, **Zhenhong Zhou(Co-First)**, Longzhu He, Yi Liu, Wei Zhang, Sen Su
 
 
 # 📖 Educations
-- *2022.09 - now*, Master of Computer Science and Technology, Beijing University of Posts and Telecommunications. 
+- *2025.08 - now*, PhD Student @ College of Computing and Data Science, Nanyang Technological University
+- *2022.09 - 2025.06*, Master of Computer Science and Technology, Beijing University of Posts and Telecommunications. 
 - *2018.09 - 2022.06*, Bachelor of Data Science and Big Data Technology, Beijing University of Posts and Telecommunications. 
 
 # 💻 Internships
-- *2024.12 - now*, A*Star, Singapore.
+- *2024.12 - 2025.06*, A*Star, Singapore.
 - *2024.02 - 2024.12*, [Tongyi, Alibaba](https://tongyi.aliyun.com/qianwen/), Beijing, China.
 - *2023.10 - 2024.02*, [Baichuan Inc.](https://www.baichuan-ai.com/home), Beijing, China.
 
@@ -123,5 +125,6 @@ Quan Liu, **Zhenhong Zhou(Co-First)**, Longzhu He, Yi Liu, Wei Zhang, Sen Su
 
 
 # 🎖 Honors and Awards
+- *2024.10* National master scholarship, Beijing University of Posts and Telecommunications.
 - *2023.10* First-class postgraduate academic scholarship, Beijing University of Posts and Telecommunications.
 - *2022.10* Second-class postgraduate academic scholarship, Beijing University of Posts and Telecommunications.
